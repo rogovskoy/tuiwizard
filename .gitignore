@@ -1,0 +1,8 @@
+__pycache__
+core/__pycache__
+effects/__pycache__
+widgets/__pycache__
+.vscode
+.git
+.DS_Store
+.cursor
